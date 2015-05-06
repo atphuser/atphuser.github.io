@@ -1246,15 +1246,15 @@ Portfolio
 }
 
 .work-item:hover .work-image:after {
-	background: rgba(0, 0, 0, .6);
+	/*background: rgba(0, 0, 0, .6);*/
 }
 
 .work-item:hover .work-image > img {
-	-webkit-transform: scale(1.1) rotate(2deg);
-	   -moz-transform: scale(1.1) rotate(2deg);
-	    -ms-transform: scale(1.1) rotate(2deg);
-	     -o-transform: scale(1.1) rotate(2deg);
-	        transform: scale(1.1) rotate(2deg);
+	-webkit-transform: scale(1.2);
+	   -moz-transform: scale(1.2);
+	    -ms-transform: scale(1.2);
+	     -o-transform: scale(1.2);
+	        transform: scale(1.2);
 }
 
 .work-item:hover .work-caption {
@@ -1273,7 +1273,7 @@ Portfolio
 }
 
 .works-grid.works-hover-w .work-item:hover .work-image:after {
-	background: rgba(255, 255, 255, .8);
+	/*background: rgba(255, 255, 255, .8);*/
 }
 
 /* Work item gradien background*/
@@ -1287,7 +1287,7 @@ Portfolio
 }
 
 .works-grid.works-hover-g .work-item:hover .work-image:after {
-	background: rgb(111,226,158);
+	/*background: rgb(111,226,158);
 	background: -moz-linear-gradient(-45deg, rgba(111,226,158,0.8) 0%, rgba(91,218,209,0.8) 100%);
 	background: -webkit-gradient(linear, left top, right bottom, color-stop(0%,rgba(111,226,158,0.8)), color-stop(100%,rgba(91,218,209,0.8)));
 	background: -webkit-linear-gradient(-45deg, rgba(111,226,158,0.8) 0%,rgba(91,218,209,0.8) 100%);
@@ -1295,7 +1295,7 @@ Portfolio
 	background: -ms-linear-gradient(-45deg, rgba(111,226,158,0.8) 0%,rgba(91,218,209,0.8) 100%);
 	background: linear-gradient(135deg, rgba(111,226,158,0.8) 0%,rgba(91,218,209,0.8) 100%);
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#6fe29e', endColorstr='#5bdad1',GradientType=1 );
-	opacity: 1;
+	opacity: 1;*/
 }
 
 /* -------------------------------------------------------------------
